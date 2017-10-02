@@ -1,0 +1,22 @@
+{
+  "name": "emvents",
+  "version": "1.0.0",
+  "description": "the REST API for a mobile ticketing app to help people find the best free events",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErideDLF/EmventsMicroverse.git"
+  },
+  "author": "Irene De La Fuente Puertas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErideDLF/EmventsMicroverse/issues"
+  },
+  "homepage": "https://github.com/ErideDLF/EmventsMicroverse#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
